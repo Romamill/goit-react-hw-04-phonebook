@@ -25,6 +25,8 @@ class App extends Component {
     filter: '',
   };
 
+  
+
   componentDidMount() {
     const storedContacts = localStorage.getItem('contacts');
     if (storedContacts) {
