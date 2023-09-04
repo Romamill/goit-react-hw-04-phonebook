@@ -1,0 +1,15 @@
+
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.content-conteiner {
+    text-align: left;
+    padding: 20px;
+    border: 2px solid #ccc;
+    transform: scale(2);
+}
